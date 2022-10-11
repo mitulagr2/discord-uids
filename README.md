@@ -28,7 +28,11 @@ Discord User-ID extractor is a Quick and Easy-to-use tool to extract user IDs fr
 
 This makes it hard to distinguish a potential bot username which imitates an UID from an actual UID.
 
-**Solution**: Discord-UIDs relies on the fixed length of the user's tag and the hash preceding it, which being a special character is not allowed within usernames. This ensures no false-passes within the UID matching operation and ascertains that no user is wrongly banned. This method also provides for variable UID lengths of accounts created across all time periods.
+**Solution**
+
+Discord-UIDs relies on the fixed length of the user's tag and the hash preceding it, which being a special character is not allowed within usernames. This ensures no false-passes within the UID matching operation and ascertains that no user is wrongly banned. This method also provides for variable UID lengths of accounts created across all time periods.
+
+**Code**
 
 ```js
 for (let i = 0; i < input.length; i++)
