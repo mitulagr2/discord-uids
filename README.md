@@ -6,6 +6,8 @@ Discord User-ID extractor is a Quick and Easy-to-use tool to extract user IDs fr
 
 ![wesite-screenshot](https://user-images.githubusercontent.com/69587385/194933057-e2a990ef-2e57-4bf3-b502-64f09a3b6e2c.png)
 
+![lighthouse-audit](https://user-images.githubusercontent.com/69587385/195427894-7d85296e-3259-4d5f-b535-4d12705c280a.png)
+
 # Features
 
 - Clean and Minimal UI using [Materialize](https://materializecss.com/).
