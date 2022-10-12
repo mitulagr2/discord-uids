@@ -1,8 +1,3 @@
-<div align="right">
-  <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="#" alt="License"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
-</div>
-
 <h1 align="center">discord-uids</h1>
 
 Discord User-ID extractor is a Quick and Easy-to-use tool to extract user IDs from a chunk of text, such as the [GearBot](https://gearbot.rocks/) join logs.
